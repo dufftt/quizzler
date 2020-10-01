@@ -1,2 +1,6 @@
-# quizzler
-It is a funn little quiz app made in flutter and can be use cross-platform on Android,ios,linux,web apps.
+# quizzler-Game
+It is a funn little quiz app made in flutter.
+we can be use this game cross-platform on like Android,ios,linux,web apps.
+
+
+### This game is fun-lovin...💥 💥 
